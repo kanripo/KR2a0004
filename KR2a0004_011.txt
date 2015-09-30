@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 史記正義
-#+DATE: 2015-09-23 09:41:22
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:19:25.882498
+#+PROPERTY: ID KR2a0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR2a0004_WYG_011-1a>¶
 欽定四庫全書¶
 　史記正義卷十一¶
@@ -110,4 +112,3 @@
 諸侯大盛而錯為之不以漸也及主父偃言之而諸侯¶
 以弱卒以安安危之機豈不以哉¶
 　史記正義卷十一¶
-

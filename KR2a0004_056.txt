@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 史記正義
-#+DATE: 2015-09-23 09:41:22
-#+PROPERTY: JUAN 56
+#+DATE: 2015-08-24 22:19:26.650019
+#+PROPERTY: ID KR2a0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十六
 <pb:KR2a0004_WYG_056-1a>¶
 欽定四庫全書¶
 　史記正義卷五十六¶
@@ -196,4 +198,3 @@
 髙帝常出竒計救紛糾之難振國家之患及吕后時事¶
 多故矣然平竟自脱定宗廟以榮名終稱賢相豈不善¶
 始善終哉非知謀孰能當此者乎¶
-

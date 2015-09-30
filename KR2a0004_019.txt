@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 史記正義
-#+DATE: 2015-09-23 09:41:22
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:19:26.001908
+#+PROPERTY: ID KR2a0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR2a0004_WYG_019-1a>¶
 欽定四庫全書¶
 　史記正義卷十九¶
@@ -69,4 +71,3 @@
 　¶
 　¶
 　史記正義卷十九¶
-
